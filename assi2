@@ -15,9 +15,8 @@ The target variable is derived from the students' final grade:
 - Python
 - Pandas
 - Jupyter Notebook
-- Visual Studio Code
 
 ## Files in This Repository
 - Jupyter Notebook for loading and inspecting the dataset
 - CSV dataset file
-- Methodology diagram (PNG or PDF)
+- lab2 diagram 
