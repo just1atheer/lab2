@@ -1,0 +1,23 @@
+# ARTI 308 – Lab 2 (Assignment 2)
+
+## Dataset Description
+This project uses the Student Performance Dataset, which contains academic, demographic, and social attributes of students. The dataset is provided in CSV format and is suitable for supervised machine learning tasks.
+
+## Machine Learning Problem
+The task is formulated as a classification problem. The objective is to predict whether a student will pass or fail a course based on various features such as study time, previous academic performance, and family background.
+
+## Target Variable
+The target variable is derived from the students' final grade:
+- Pass: final grade ≥ 10
+- Fail: final grade < 10
+
+## Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+- Visual Studio Code
+
+## Files in This Repository
+- Jupyter Notebook for loading and inspecting the dataset
+- CSV dataset file
+- Methodology diagram (PNG or PDF)
